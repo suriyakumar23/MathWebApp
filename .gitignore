@@ -1,0 +1,22 @@
+# Compiled class files
+*.class
+
+# Eclipse files
+/.settings/
+/*.project
+/*.classpath
+
+# Build folders
+/bin/
+/build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ files (if ever used)
+/.idea/
+/out/
